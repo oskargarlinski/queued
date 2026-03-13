@@ -7,6 +7,7 @@ Queued is a web app that turns any Spotify playlist into a precise clock timelin
 **[Live Demo →](https://queued-zeta.vercel.app)**
 
 ![Queued Screenshot](https://i.ibb.co/TMhLzDdS/Screenshot-2026-03-13-172402.png)
+![Queued Demo](https://github.com/user-attachments/assets/2dad6c44-89cb-451e-8875-8b5335bd9ed0)
 
 ---
 
