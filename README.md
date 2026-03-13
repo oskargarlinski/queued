@@ -4,7 +4,7 @@
 
 Queued is a web app that turns any Spotify playlist into a precise clock timeline. Set a start time and instantly see the exact timestamp every track will play. Or flip it around - use **reverse mode** to target a specific song at a specific moment, and let Queued calculate when you need to hit play.
 
-**[Live Demo →](https://queued-zeta.vercel.app)**
+**[Live Demo (See Limitations)](https://queued-zeta.vercel.app)**
 
 ![Queued Screenshot](https://i.ibb.co/TMhLzDdS/Screenshot-2026-03-13-172402.png)
 ![Queued Demo](https://github.com/user-attachments/assets/2dad6c44-89cb-451e-8875-8b5335bd9ed0)
